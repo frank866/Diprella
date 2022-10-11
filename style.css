@@ -114,7 +114,7 @@ input{
     transition: 0.5s;
 }
 .right-container{
-    width: 40%;
+    flex-basis: 40%;
     background-color: rgb(6, 163, 136); 
     text-align: center; 
     display: flex;
